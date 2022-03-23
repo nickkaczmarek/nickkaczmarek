@@ -1,19 +1,20 @@
-### Hi there 👋
+### Hello all! 👋🏽
 
-I'm a software engineer at [WWT](https://www.wwt.com/about/careers) and I'm currently working on [SwiftCurrent](https://www.github.com/wwt/SwiftCurrent)
-
-I'm interested in Apple technologies (Swift, macOS, iOS), but I've mostly worked on .NET and JavaScript in the past.
+I'm a software engineer and I'm interested in Swift development for macOS and iOS.
 
 ### About me
 
-You can find random musings from me at [my blog](nickkaczmarek.com). Working on bringing in more technology posts, but at the moment it's like a twitter just for me.
+You can find random musings at [my blog](https://nickkaczmarek.com). I'm working on bringing in more technology posts, but at the moment it's like a twitter just for me. I'm also on twitter at [@nickkacz](http://twitter.com/nickkacz).
 
 ### 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/nickkaczmarek">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nickkaczmarek&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="nickkaczmarek"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickkaczmarek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="nickkaczmarek"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nickkaczmarek&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="nickkaczmarek github stats"/>
+  <!--  
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=nickkaczmarek&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="nickkaczmarek"/>
+-->
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickkaczmarek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="nickkaczmarek github languages"/>
 </a>
 </p>
 
